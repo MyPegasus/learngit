@@ -1,2 +1,2 @@
-#coding:utf-8
+#/ProjectSpace/Git/test/learngit
 new file: hello.py
